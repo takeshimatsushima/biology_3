@@ -26,23 +26,5 @@
 
 * JavaScript (ES6)
 
-## 🚀 GitHub Pagesでの公開方法
-
-このプロジェクトは、簡単にWebページとして公開できます。
-
-1. **GitHubリポジトリの作成**: GitHub上で新しいリポジトリを作成します。
-
-2. **ファイルのアップロード**: このフォルダにある `index.html` と `script.js`、そしてこの `README.md` ファイルを、作成したリポジトリにアップロードします。
-
-3. **GitHub Pagesの設定**:
-
-   * リポジトリの「Settings」タブに移動します。
-
-   * 左側のメニューから「Pages」を選択します。
-
-   * 「Branch」の項目で、「main」（またはお使いのブランチ名）を選択し、「/ (root)」フォルダを選択して「Save」をクリックします。
-
-4. **公開の確認**: しばらく待つと、ページ上部に公開されたURLが表示されます。そのURLにアクセスすると、作成したWebページが表示されます。
-
 ---
 This project was created with the assistance of an AI.
